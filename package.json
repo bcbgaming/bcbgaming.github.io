@@ -1,0 +1,20 @@
+{
+  "name": "bcbgaming.github.io",
+  "version": "0.1.0",
+  "description": "A personal blog",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcbgaming/bcbgaming.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcbgaming/bcbgaming.github.io/issues"
+  },
+  "homepage": "https://github.com/bcbgaming/bcbgaming.github.io#readme"
+}
